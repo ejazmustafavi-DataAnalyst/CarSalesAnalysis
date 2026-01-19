@@ -101,4 +101,4 @@ This project is available for educational and portfolio purposes.
 
 ## 🔗 Links
 
-- [LinkedIn Profile]([your-linkedin-url](https://www.linkedin.com/in/mejazmustafavi/)
+- [LinkedIn Profile]https://www.linkedin.com/in/mejazmustafavi
